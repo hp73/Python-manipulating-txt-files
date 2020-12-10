@@ -1,5 +1,5 @@
 Project 4 - Python manipulating txt files
-CSCI 101 Fall 2019
+CSCI 101 Fall 2018
 By Harry Pinkerton
 Required to run: python 3.7
 
